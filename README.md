@@ -2,6 +2,7 @@
 
 This is a simple Product List web application.  
 It displays a list of products with basic information like name, price, and description.
+using codeignater3 php
 
 ---
 
